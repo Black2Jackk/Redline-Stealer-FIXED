@@ -1,2 +1,2 @@
-Just like Redline Stealer :
-Check : https://medium.com/@rangerwooz/agent-stealer-7b688fbf25c4
+Redline Stealer :
+Check : https://medium.com/@Cyzarian007/redline-stealer-d1bc3465e2f3
